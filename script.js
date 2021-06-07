@@ -1,5 +1,5 @@
 'use strict';
-
+//get to know and build your own modals in pure javascript and html css only
 const modal = document.querySelector('.modal');
 const overlay = document.querySelector('.overlay');
 const btnsCloseModal = document.querySelector('.close-modal');
